@@ -1,0 +1,1 @@
+Atributos: Son las características que tiene la clase.
